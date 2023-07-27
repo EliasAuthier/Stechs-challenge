@@ -1,4 +1,12 @@
 asgiref==3.7.2
 Django==4.2.3
+mysqlclient==2.2.0
+ply==3.11
+pyasn==1.6.1
+pyasn1==0.4.8
+pycryptodomex==3.18.0
+pysmi==0.3.4
+pysnmp==4.4.12
+snmpsim==0.4.7
 sqlparse==0.4.4
 typing_extensions==4.7.1
